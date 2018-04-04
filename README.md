@@ -1,0 +1,2 @@
+# mycoin
+Learn ERC20
